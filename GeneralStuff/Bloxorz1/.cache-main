@@ -1,0 +1,266 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+/Users/Yemi/scala_workspace/Bloxorz1/src -> /Users/Yemi/scala_workspace/Bloxorz1/bin
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/System/Library/Java/Extensions/MRJToolkit.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> /Users/Yemi/Applications/eclipse/plugins/org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+6 -> -encoding
+7 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+42 items
+/Users/Yemi/scala_workspace/Bloxorz1/src/common/package.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/common/package$$anonfun$subFile$1.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/common/package.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/common/package$.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/common/package.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/common/package.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Bloxorz$.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Bloxorz$InfiniteLevel$.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Bloxorz$Level.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Bloxorz$Level0$.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Bloxorz$Level1$.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Bloxorz$delayedInit$body.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Bloxorz.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Block$$anonfun$1.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Block$$anonfun$legalNeighbors$1.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Block$.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Block.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Down$.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Left$.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Move.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Pos$.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Pos.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Right$.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Up$.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$class.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/InfiniteTerrain.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/InfiniteTerrain$$anonfun$1.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/InfiniteTerrain.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/InfiniteTerrain$class.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/InfiniteTerrain.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/InfiniteTerrain.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Solver$$anonfun$1$$anonfun$apply$1.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Solver$$anonfun$1.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Solver$$anonfun$from$1.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Solver$$anonfun$neighborsWithHistory$1.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Solver$$anonfun$newNeighborsOnly$1.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Solver$$anonfun$pathsToGoal$1.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Solver$class.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Solver.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/StringParserTerrain$$anonfun$findChar$1.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/StringParserTerrain$$anonfun$findChar$2.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/StringParserTerrain$$anonfun$terrainFunction$1$$anonfun$apply$1.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/StringParserTerrain$$anonfun$terrainFunction$1$$anonfun$apply$2.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/StringParserTerrain$$anonfun$terrainFunction$1.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/StringParserTerrain$class.class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> /Users/Yemi/scala_workspace/Bloxorz1/bin/streams/StringParserTerrain.class
+binary dependencies:
+12 items
+/Users/Yemi/scala_workspace/Bloxorz1/src/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Yemi/scala_workspace/Bloxorz1/src/common/package.scala -> /Users/Yemi/Applications/eclipse/plugins/org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> /Users/Yemi/Applications/eclipse/plugins/org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> /Users/Yemi/Applications/eclipse/plugins/org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/InfiniteTerrain.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/InfiniteTerrain.scala -> /Users/Yemi/Applications/eclipse/plugins/org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> /Users/Yemi/Applications/eclipse/plugins/org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> /Users/Yemi/Applications/eclipse/plugins/org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+direct source dependencies:
+7 items
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> /Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> /Users/Yemi/scala_workspace/Bloxorz1/src/streams/InfiniteTerrain.scala
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> /Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> /Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/InfiniteTerrain.scala -> /Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> /Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> /Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala
+direct external dependencies:
+0 items
+public inherited source dependencies:
+7 items
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> /Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> /Users/Yemi/scala_workspace/Bloxorz1/src/streams/InfiniteTerrain.scala
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> /Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> /Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/InfiniteTerrain.scala -> /Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> /Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> /Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+42 items
+/Users/Yemi/scala_workspace/Bloxorz1/src/common/package.scala -> common.package
+/Users/Yemi/scala_workspace/Bloxorz1/src/common/package.scala -> common.package$
+/Users/Yemi/scala_workspace/Bloxorz1/src/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> streams.Bloxorz
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> streams.Bloxorz$
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> streams.Bloxorz$InfiniteLevel$
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> streams.Bloxorz$Level
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> streams.Bloxorz$Level0$
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> streams.Bloxorz$Level1$
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> streams.Bloxorz$delayedInit$body
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> streams.GameDef
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> streams.GameDef$Block
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> streams.GameDef$Block$
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> streams.GameDef$Block$$anonfun$1
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> streams.GameDef$Block$$anonfun$legalNeighbors$1
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> streams.GameDef$Down$
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> streams.GameDef$Left$
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> streams.GameDef$Move
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> streams.GameDef$Pos
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> streams.GameDef$Pos$
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> streams.GameDef$Right$
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> streams.GameDef$Up$
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> streams.GameDef$class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/InfiniteTerrain.scala -> streams.InfiniteTerrain
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/InfiniteTerrain.scala -> streams.InfiniteTerrain$$anonfun$1
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/InfiniteTerrain.scala -> streams.InfiniteTerrain$class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> streams.Solver
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> streams.Solver$$anonfun$1
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> streams.Solver$$anonfun$1$$anonfun$apply$1
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> streams.Solver$$anonfun$from$1
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> streams.Solver$$anonfun$neighborsWithHistory$1
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> streams.Solver$$anonfun$newNeighborsOnly$1
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> streams.Solver$$anonfun$pathsToGoal$1
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> streams.Solver$class
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> streams.StringParserTerrain
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$findChar$1
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$findChar$2
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$terrainFunction$1
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$terrainFunction$1$$anonfun$apply$1
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$terrainFunction$1$$anonfun$apply$2
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> streams.StringParserTerrain$class
+used names:
+0 items
+product stamps:
+42 items
+/Users/Yemi/scala_workspace/Bloxorz1/bin/common/package$$anonfun$subFile$1.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/common/package$.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/common/package.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Bloxorz$.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Bloxorz$InfiniteLevel$.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Bloxorz$Level.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Bloxorz$Level0$.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Bloxorz$Level1$.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Bloxorz$delayedInit$body.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Bloxorz.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Block$$anonfun$1.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Block$$anonfun$legalNeighbors$1.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Block$.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Block.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Down$.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Left$.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Move.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Pos$.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Pos.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Right$.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$Up$.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef$class.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/GameDef.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/InfiniteTerrain$$anonfun$1.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/InfiniteTerrain$class.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/InfiniteTerrain.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Solver$$anonfun$1$$anonfun$apply$1.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Solver$$anonfun$1.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Solver$$anonfun$from$1.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Solver$$anonfun$neighborsWithHistory$1.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Solver$$anonfun$newNeighborsOnly$1.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Solver$$anonfun$pathsToGoal$1.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Solver$class.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/Solver.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/StringParserTerrain$$anonfun$findChar$1.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/StringParserTerrain$$anonfun$findChar$2.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/StringParserTerrain$$anonfun$terrainFunction$1$$anonfun$apply$1.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/StringParserTerrain$$anonfun$terrainFunction$1$$anonfun$apply$2.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/StringParserTerrain$$anonfun$terrainFunction$1.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/StringParserTerrain$class.class -> lastModified(1521331174000)
+/Users/Yemi/scala_workspace/Bloxorz1/bin/streams/StringParserTerrain.class -> lastModified(1521331174000)
+source stamps:
+6 items
+/Users/Yemi/scala_workspace/Bloxorz1/src/common/package.scala -> hash(788a49445f7bdd414e70842ce39d698eab92d45f)
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> hash(6bb5521c2504589dac1332095a00fcb78c46ac49)
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> hash(cfb698ac034544b47a287c06c6538bde9ca2c4b2)
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/InfiniteTerrain.scala -> hash(6a3e044c22d95c76a35388977dd9a0f8d0cf87b8)
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> hash(fc0b4c717738dee4b7d5550f5b2e130ad161ff62)
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> hash(828c2679c5dcb8c8f13dbe8bb7e4c7a530a59233)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1433812782000)
+/Users/Yemi/Applications/eclipse/plugins/org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar -> lastModified(1461122220000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/Yemi/Applications/eclipse/plugins/org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar -> scala.runtime.AbstractFunction2
+internal apis:
+6 items
+/Users/Yemi/scala_workspace/Bloxorz1/src/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOY29tbW9uLnBhY2thZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AFN0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFRzcQB+AEd0AANBbnlzcQB+AEtzcQB+AE51cQB+AFEAAAACc3EAfgBTdAAFc2NhbGFxAH4AWnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABx4cHQABmNvbW1vbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjZnZiZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAAoL1VzZXJzL1llbWkvc2NhbGFfd29ya3NwYWNlL0Jsb3hvcnoxL2JpbnQAKC9Vc2Vycy9ZZW1pL3NjYWxhX3dvcmtzcGFjZS9CbG94b3J6MS9zcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFHiKSURfe91BTnCELOOdaY6rktRf
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC3rCbVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAPc3RyZWFtcy5CbG94b3J6dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AMXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AMABwc3EAfgA1c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AOXNxAH4AMABwc3EAfgA1dXEAfgAQAAAAAHNxAH4AMABwc3EAfgA1dXEAfgAQAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgAWcQB+ACB1cQB+ACEAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgBGeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4AHEwABXZhbHVlcQB+ABx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADh0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AOHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AYHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNxAH4AU3QABFVuaXRxAH4AWXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAcTAADdHBlcQB+AEZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+ACl0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AFRbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ADhzcQB+AFN0AAVBcnJheXEAfgBZdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AFN0AAZTdHJpbmdzcQB+AFdzcQB+AFp1cQB+AF0AAAADc3EAfgBfdAAEamF2YXNxAH4AX3QABGxhbmdxAH4AZHNxAH4AMABwc3EAfgA1dXEAfgB9AAAABHNxAH4AU3QAA0FwcHEAfgBZc3EAfgBTdAALRGVsYXllZEluaXRxAH4AWXNxAH4AU3QABk9iamVjdHEAfgCBc3EAfgBTdAADQW55cQB+AFl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAceHB0AAdzdHJlYW1zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFiNmdmJnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ACgvVXNlcnMvWWVtaS9zY2FsYV93b3Jrc3BhY2UvQmxveG9yejEvYmludAAoL1VzZXJzL1llbWkvc2NhbGFfd29ya3NwYWNlL0Jsb3hvcnoxL3NyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUa7VSHCUEWJ2sEzIJWgD8t4xGrEk=
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCzjSghAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHABdAAPc3RyZWFtcy5HYW1lRGVmdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AFN0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFRzcQB+AEd0AANBbnlzcQB+AEtzcQB+AE51cQB+AFEAAAACc3EAfgBTdAAFc2NhbGFxAH4AWnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABx4cHQAB3N0cmVhbXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWI2Z2YmdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAKC9Vc2Vycy9ZZW1pL3NjYWxhX3dvcmtzcGFjZS9CbG94b3J6MS9iaW50ACgvVXNlcnMvWWVtaS9zY2FsYV93b3Jrc3BhY2UvQmxveG9yejEvc3JjdXIAAltCrPMX+AYIVOACAAB4cAAAABTPtpisA0VEtHoofAbGU4venKLEsg==
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/InfiniteTerrain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCRNzIlAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHABdAAXc3RyZWFtcy5JbmZpbml0ZVRlcnJhaW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQAB0dhbWVEZWZzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAB3N0cmVhbXNzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AVHNxAH4AR3QABk9iamVjdHNxAH4AS3NxAH4ATnVxAH4AUQAAAANzcQB+AFN0AARqYXZhc3EAfgBTdAAEbGFuZ3EAfgBYc3EAfgBHdAADQW55c3EAfgBLc3EAfgBOdXEAfgBRAAAAAnNxAH4AU3QABXNjYWxhcQB+AFh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAceHB0AAdzdHJlYW1zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFiNmdmJnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ACgvVXNlcnMvWWVtaS9zY2FsYV93b3Jrc3BhY2UvQmxveG9yejEvYmludAAoL1VzZXJzL1llbWkvc2NhbGFfd29ya3NwYWNlL0Jsb3hvcnoxL3NyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUaj4ETCLZXHajU4iXfdmg+NDPh7g=
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCHnwsYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHABdAAOc3RyZWFtcy5Tb2x2ZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQAB0dhbWVEZWZzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAB3N0cmVhbXNzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AVHNxAH4AR3QABk9iamVjdHNxAH4AS3NxAH4ATnVxAH4AUQAAAANzcQB+AFN0AARqYXZhc3EAfgBTdAAEbGFuZ3EAfgBYc3EAfgBHdAADQW55c3EAfgBLc3EAfgBOdXEAfgBRAAAAAnNxAH4AU3QABXNjYWxhcQB+AFh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAceHB0AAdzdHJlYW1zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFiNmdmJnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ACgvVXNlcnMvWWVtaS9zY2FsYV93b3Jrc3BhY2UvQmxveG9yejEvYmludAAoL1VzZXJzL1llbWkvc2NhbGFfd29ya3NwYWNlL0Jsb3hvcnoxL3NyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU/AtMcXc43uS31VUPWy4TCtFh/2I=
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB07sIDAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHABdAAbc3RyZWFtcy5TdHJpbmdQYXJzZXJUZXJyYWludXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AAdHYW1lRGVmc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA2c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAdzdHJlYW1zc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFRzcQB+AEd0AAZPYmplY3RzcQB+AEtzcQB+AE51cQB+AFEAAAADc3EAfgBTdAAEamF2YXNxAH4AU3QABGxhbmdxAH4AWHNxAH4AR3QAA0FueXNxAH4AS3NxAH4ATnVxAH4AUQAAAAJzcQB+AFN0AAVzY2FsYXEAfgBYdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAHc3RyZWFtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjZnZiZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAAoL1VzZXJzL1llbWkvc2NhbGFfd29ya3NwYWNlL0Jsb3hvcnoxL2JpbnQAKC9Vc2Vycy9ZZW1pL3NjYWxhX3dvcmtzcGFjZS9CbG94b3J6MS9zcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFIKMJnnF3LjI8T2+i7fkx6UwpZIz
+external apis:
+0 items
+source infos:
+6 items
+/Users/Yemi/scala_workspace/Bloxorz1/src/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Bloxorz.scala -> 
+AAAAAAAAAAA=
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/GameDef.scala -> 
+AAAAAAAAAAA=
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/InfiniteTerrain.scala -> 
+AAAAAAAAAAA=
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/Solver.scala -> 
+AAAAAAAAAAA=
+/Users/Yemi/scala_workspace/Bloxorz1/src/streams/StringParserTerrain.scala -> 
+AAAAAAAAAAA=
+compilations:
+12 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABViWEhr51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKC9Vc2Vycy9ZZW1pL3NjYWxhX3dvcmtzcGFjZS9CbG94b3J6MS9iaW50ACgvVXNlcnMvWWVtaS9zY2FsYV93b3Jrc3BhY2UvQmxveG9yejEvc3Jj
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABViWHytx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKC9Vc2Vycy9ZZW1pL3NjYWxhX3dvcmtzcGFjZS9CbG94b3J6MS9iaW50ACgvVXNlcnMvWWVtaS9zY2FsYV93b3Jrc3BhY2UvQmxveG9yejEvc3Jj
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABViWIVZZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKC9Vc2Vycy9ZZW1pL3NjYWxhX3dvcmtzcGFjZS9CbG94b3J6MS9iaW50ACgvVXNlcnMvWWVtaS9zY2FsYV93b3Jrc3BhY2UvQmxveG9yejEvc3Jj
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABViWMCUB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKC9Vc2Vycy9ZZW1pL3NjYWxhX3dvcmtzcGFjZS9CbG94b3J6MS9iaW50ACgvVXNlcnMvWWVtaS9zY2FsYV93b3Jrc3BhY2UvQmxveG9yejEvc3Jj
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABViWN4uN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKC9Vc2Vycy9ZZW1pL3NjYWxhX3dvcmtzcGFjZS9CbG94b3J6MS9iaW50ACgvVXNlcnMvWWVtaS9zY2FsYV93b3Jrc3BhY2UvQmxveG9yejEvc3Jj
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABViWRgdN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKC9Vc2Vycy9ZZW1pL3NjYWxhX3dvcmtzcGFjZS9CbG94b3J6MS9iaW50ACgvVXNlcnMvWWVtaS9zY2FsYV93b3Jrc3BhY2UvQmxveG9yejEvc3Jj
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABViWTDeF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKC9Vc2Vycy9ZZW1pL3NjYWxhX3dvcmtzcGFjZS9CbG94b3J6MS9iaW50ACgvVXNlcnMvWWVtaS9zY2FsYV93b3Jrc3BhY2UvQmxveG9yejEvc3Jj
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABViWZV5p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKC9Vc2Vycy9ZZW1pL3NjYWxhX3dvcmtzcGFjZS9CbG94b3J6MS9iaW50ACgvVXNlcnMvWWVtaS9zY2FsYV93b3Jrc3BhY2UvQmxveG9yejEvc3Jj
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVjoKUk51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKC9Vc2Vycy9ZZW1pL3NjYWxhX3dvcmtzcGFjZS9CbG94b3J6MS9iaW50ACgvVXNlcnMvWWVtaS9zY2FsYV93b3Jrc3BhY2UvQmxveG9yejEvc3Jj
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV+RAAB11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKC9Vc2Vycy9ZZW1pL3NjYWxhX3dvcmtzcGFjZS9CbG94b3J6MS9iaW50ACgvVXNlcnMvWWVtaS9zY2FsYV93b3Jrc3BhY2UvQmxveG9yejEvc3Jj
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGY3qTJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKC9Vc2Vycy9ZZW1pL3NjYWxhX3dvcmtzcGFjZS9CbG94b3J6MS9iaW50ACgvVXNlcnMvWWVtaS9zY2FsYV93b3Jrc3BhY2UvQmxveG9yejEvc3Jj
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjZnZiZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKC9Vc2Vycy9ZZW1pL3NjYWxhX3dvcmtzcGFjZS9CbG94b3J6MS9iaW50ACgvVXNlcnMvWWVtaS9zY2FsYV93b3Jrc3BhY2UvQmxveG9yejEvc3Jj
